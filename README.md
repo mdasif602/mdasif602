@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
+[![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdasif602)](https://github.com/mdasif602/github-readme-stats)
