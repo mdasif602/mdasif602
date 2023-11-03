@@ -5,6 +5,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdasif602&layout=compact)
 
+![Visitor Count](https://profile-counter.glitch.me/{mdasif602}/count.svg)
+
 Here are some ideas to get you started:
 
 - 🔭 Exploring personal development and growth.
