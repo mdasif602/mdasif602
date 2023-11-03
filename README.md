@@ -3,6 +3,8 @@
 
 [![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdasif602&show_icons=true&theme=synthwave&hide=issues)](https://github.com/mdasif602/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdasif602&layout=compact)
+
 Here are some ideas to get you started:
 
 - 🔭 Exploring personal development and growth.
