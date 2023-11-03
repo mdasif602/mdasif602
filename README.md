@@ -5,13 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Myself.
-- 🌱 I’m currently learning BackEnd
-- 👯 I’m looking to collaborate on Learning
-- 🤔 I’m looking for help with Node.js
-- 💬 Ask me about Technology
-- 📫 How to reach me: https://www.linkedin.com/in/md-asif-hussain-b62993221/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- 🔭 Exploring personal development and growth.
+
+🌱 Currently delving into Fullstack development and DSA.
+
+👯 Open to collaborating on learning projects.
+
+🤔 Seeking assistance and insights in DSA.
+
+💬 Passionate about all things tech-related.
+
+📫 Connect with me on https://www.linkedin.com/in/md-asif-hussain-b62993221/.
+
+😄 Pronouns: He/Him
 
 
