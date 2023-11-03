@@ -5,8 +5,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdasif602&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=mdasif602&color=red&style=flat-square)
-
 Here are some ideas to get you started:
 
 - 🔭 Exploring personal development and growth.
@@ -22,5 +20,9 @@ Here are some ideas to get you started:
 📫 Connect with me on https://www.linkedin.com/in/md-asif-hussain-b62993221/.
 
 😄 Pronouns: He/Him
+
+![](https://komarev.com/ghpvc/?username=mdasif602&color=red&style=flat-square)
+
+
 
 
