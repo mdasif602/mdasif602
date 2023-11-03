@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdasif602&layout=compact)
 
-![Visitor Count](https://profile-counter.glitch.me/{mdasif602}/count.svg)
+![](https://komarev.com/ghpvc/?username=mdasif602&color=red&style=flat-square)
 
 Here are some ideas to get you started:
 
